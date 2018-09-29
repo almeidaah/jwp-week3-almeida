@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "application.movies.datafile",
+  "type": "java.lang.String",
+  "description": "My movie data file"
+}]}
